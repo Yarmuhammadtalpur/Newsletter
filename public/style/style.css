@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.containers{
+    background-color: #f8eded;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.newsletterIcon {
+    height: 100px;
+    width: 100px;
+}
+.newsletterHeading{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    margin-top: 20px;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 30rem;
+    
+}
+
+.Userinput{
+    border-color: #a7bbc7;
+    width: 16rem;
+}
+
+.signupbtn{
+    margin-top: 0.5rem;
+    width: 16rem;
+    height: 2.5rem;
+}
+
+.footerHeading{
+    margin-top: 5rem;
+    font-family: 'Roboto', sans-serif;
+    color: #aaaaaa;
+    font-size: 1rem;
+}
+
+/* Pass HTML Styles */
+
+.ContainerSubmit{
+    font-family: 'lato', sans-serif;
+    background-color: #d1d9d9;
+    height: 35vh;
+
+}
+.submitHeading {    
+    padding: 3rem 0 1rem 1rem;
+    font-size: 3.1rem;
+}
+
+.submitText{    
+    padding-left: 1rem;
+    font-size: 1rem;
+}
+
+.button-try-again{
+    margin-left: 1rem;
+}

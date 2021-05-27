@@ -1,0 +1,15 @@
+{
+  "name": "emailcollecting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yar Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.43",
+    "express": "^4.17.1"
+  }
+}
